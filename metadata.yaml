@@ -1,5 +1,5 @@
 _repo: Dream-Tales-and-Prose-Poems_8935
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Garnett, Constance
@@ -11,6 +11,9 @@ contributor:
     wikipedia:
     - http://www.womenofbrighton.co.uk/constanceblackgarnett.htm
     - http://en.wikipedia.org/wiki/Constance_Garnett
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Turgenev, Ivan Sergeevich
@@ -24,6 +27,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/922
     wikipedia: http://en.wikipedia.org/wiki/Ivan_Turgenev
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8935#Dream-Tales-and-Prose-Poems
 gutenberg_issued: '2005-09-01'
 gutenberg_type: Text
 identifiers:
